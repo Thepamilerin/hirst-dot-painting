@@ -1,6 +1,6 @@
 #Hirst Dot Painting
 
-A simple Python project inspired by Damien Hirst’s dot paintings, created using the `turtle` graphics module.
+A Python project inspired by Damien Hirst’s dot paintings, created using the `turtle` graphics module.
 
 ##What It Does
 This program generates a grid of coloured dots using Python's `turtle` module and randomised colour selection.
